@@ -1,5 +1,5 @@
 
-Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/Code-Of-Conduct
+Código de conduta baseado em: https://github.com/androiddevbr/codigo-de-conduta
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
@@ -20,7 +20,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 ## Código de Conduta
 
-O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O **Slack Flutter Brasil** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -68,27 +68,23 @@ A moderação se reserva o direito de verificar a autenticidade de usuários sus
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **David Conceição** - @davidtiagoconceicao
-* **Douglas Drumond** - @douglasdrumond
-* **JP Ventura** - @jpventura
-* **Marcello Galhardo** - @marcellogalhardo
-* **Rafa Araujo** - @rafaaraujo
-* **Walmyr Carvalho** - @walmyrcarvalho
+* **Vinícius Oliveira** - @viniciusmo
+* **Amadeu Cavalcante** - @amadeu01
+* **Julio Bitencourt** - @Julio
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
+Este grupo é voltado para profissionais que trabalhem com Flutter. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Flutter, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Flutter lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
 Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
-Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
 Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do Slack ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Slack, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://slack.androiddevbr.org](http://slack.androiddevbr.org)
+[http://slackin.flutterbrasil.org/](http://slackin.flutterbrasil.org/)
 
 ## Regras de etiqueta - Slack
 
@@ -100,7 +96,7 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 
 ### Dúvidas
 
-Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
+Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Flutter, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
 
@@ -112,18 +108,18 @@ Após postar a sua dúvida, não deixe de buscar alternativas para resolver seu 
 
 ### Seja gentil
 
-Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento de aplicativos, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Android Dev BR um lugar excelente para aprender e se desenvolver.
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento de aplicativos, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Flutter Brasil um lugar excelente para aprender e se desenvolver.
 
 Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
 
 ### Responsabilidade individual
 
-Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Android Dev BR potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
-O AndroidDevBR não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
+Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Flutter Brasil potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
+O Flutter Brasil não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
 
 ### Arquivos e links
 
-O Android Dev BR não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
+O Flutter Brasil não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
 
 A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Violem propriedades privadas,
@@ -133,18 +129,14 @@ Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem
 
 ### Canais
 
-O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
-Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para mensagens automáticas ou da equipe de moderação. Portanto, não poste mensagens nestes canais. Quaisquer outras mensagens enviadas nestes canais serão apagadas pela equipe de moderação sem prévio aviso.
+O Slack permite que qualquer membro crie novos canais. O Flutter Brasil possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Flutter Brasil e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
 
 ### Bots e integrações
 
-A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR.
-
-Principais estão integrados ao nosso Slack:
-* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](http://web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
+A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Flutter Brasil.
 
 ### Conhecendo o Slack
-É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
+É novo no Slack? Não tem problema, o Flutter Brasil é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://flutterbrasil.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
 
 ## Sugestões e melhorias
 
